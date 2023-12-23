@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fireball-tasks/static/css/main.5522212f.css",
+    "main.js": "/fireball-tasks/static/js/main.011e4f3a.js",
+    "static/js/787.de12d76b.chunk.js": "/fireball-tasks/static/js/787.de12d76b.chunk.js",
+    "index.html": "/fireball-tasks/index.html",
+    "main.5522212f.css.map": "/fireball-tasks/static/css/main.5522212f.css.map",
+    "main.011e4f3a.js.map": "/fireball-tasks/static/js/main.011e4f3a.js.map",
+    "787.de12d76b.chunk.js.map": "/fireball-tasks/static/js/787.de12d76b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5522212f.css",
+    "static/js/main.011e4f3a.js"
+  ]
+}
