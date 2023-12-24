@@ -1,17 +1,14 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
 
 
-
-
-  <h3 align="center">Fireball Task Manager</h3>
+  <h3 align="center">React Task Manager</h3>
 
   <p align="center">
     Get your life together!
     ·
-    <a href="https://github.com/Ajoshi1336/fireball-tasks/issues">Report Bug</a>
+    <a href="https://github.com/Ajoshi1336/react-tasks/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Ajoshi1336/fireball-tasks/pulls">Request Feature</a>
+    <a href="https://github.com/Ajoshi1336/react-tasks/pulls">Request Feature</a>
   </p>
 </div>
 
@@ -20,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Fireball Task Manager was created so that users could use a simple productivity system without feeling overwhelmed.
+React Task Manager was created so that users could use a simple productivity system without feeling overwhelmed.
 
 Here's why:
 * Open source, so you can request your own features as a user
@@ -28,7 +25,7 @@ Here's why:
 * Helps you in your day to day life :smile:
 
 
-<a href="https://ajoshi1336.github.io/fireball-tasks/">Click here</a> to get started!
+<a href="https://ajoshi1336.github.io/react-tasks/">Click here</a> to get started!
 
 <br>
 
