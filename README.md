@@ -6,9 +6,9 @@
   <p align="center">
     Get your life together!
     ·
-    <a href="https://github.com/Ajoshi1336/react-tasks/issues">Report Bug</a>
+    <a href="https://github.com/Aydinj13/react-tasks/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Ajoshi1336/react-tasks/pulls">Request Feature</a>
+    <a href="https://github.com/Aydinj13/react-tasks/pulls">Request Feature</a>
   </p>
 </div>
 
@@ -25,7 +25,7 @@ Here's why:
 * Helps you in your day to day life :smile:
 
 
-<a href="https://ajoshi1336.github.io/react-tasks/">Click here</a> to get started!
+<a href="https://aydinj13.github.io/react-tasks/">Click here</a> to get started!
 
 <br>
 
